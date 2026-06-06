@@ -37,3 +37,7 @@ grep -A 20 "Date: $(date -v-7d +%Y-%m-%d)" contexts/memory/OBSERVATIONS.md
 ---
 
 <!-- 以下是记录区域，由 observer.py 自动追加 -->
+
+Date: 2026-05-31
+
+🔴 High: [用户设定] 用户称呼为 howie；当前使用 Codex 的最大用途是围绕 `F:\z哥` 建立交易系统、量化选股流程和相关自动化。后续涉及交易、策略、选股、通达信、行情数据、运行结果时，优先检查 `F:\z哥`。
