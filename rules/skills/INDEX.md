@@ -62,11 +62,17 @@
   - 流程：广泛扫描 → 深度验证 → 压力测试 → 定稿（≥3 轮动态滚动）
   - **要求 Opus 模型**：写作由 Opus 亲自完成，调研全部 delegate + 并行
 - [AI 生成 Slide Deck 工作流](./workflow_presentation_slides.md) — Gemini 渲染、Clean Ink 风格、8 进程并行、4K 放大前验证
+- **学习系列 Skills**
+  - [苏格拉底概念学习工作流](./workflow_socratic_concept_learning.md) ✅ — Learning Skill：把教材、论文或主题转成总体架构、概念地图、原子概念卡片和半苏格拉底式问题引导
+  - [学习知识模型 Reference](./reference_learning_knowledge_model.md) ✅ — Reference Skill：定义概念、关系、问题、学习路径、状态和 `book_model.json` / MVC HTML 的共享模型
+  - [学习单元反馈 Reference](./reference_learning_feedback.md) ✅ — Reference Skill：定义按章节、单元、概念或主题切分后的练习反馈、反馈事件和掌握状态更新
+  - [交互式拆书 HTML 工作流](./workflow_interactive_book_deconstruction.md) ✅ — Output Skill：把书籍、教材或原子笔记拆成概念模型，并生成符合 MVC 的本地静态 HTML 学习界面
 - [语义搜索技能](./semantic_search.md) ⚙️ — 利用向量相似度检索深层背景与观点演变
 - [知识飞轮设计模式](./workflow_knowledge_flywheel.md) — 笨数据+笨方法+笨模型=精知识
 - [视频下载与语音识别工作流](./workflow_bilibili_whisper_transcription.md) — Bilibili/YouTube 视频处理
 - [延时执行技能](./delayed_execution.md) ⚙️ — 定时任务：sleep + 后台执行，或 OpenCode API 智能任务
 - [项目脚手架与重整](./project_scaffold.md) ✅ — 把散装目录升级成标准项目结构：`docs/`、`src/`、`scripts/`、`tests/`、`AGENTS.md` 与独立 git
+- [项目记忆文档维护工作流](./workflow_project_memory_docs.md) ✅ — 为每个项目/需求维护 `work.md` 和 `lesson.md`，记录当前状态与可复用经验
 
 ### BestPractice（最佳实践）
 
