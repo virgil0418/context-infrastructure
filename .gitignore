@@ -1,0 +1,14 @@
+.env
+.env.*
+
+__pycache__/
+*.py[cod]
+
+.DS_Store
+
+tmp/
+
+contexts/book_notes/
+
+adhoc_jobs/trading-workflow-skill
+adhoc_jobs/zettaranc-skill
